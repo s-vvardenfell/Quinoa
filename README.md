@@ -2,6 +2,6 @@
 
 The project consists of:<br>
 + [Parser](https://github.com/s-vvardenfell/QuinoaParser)
-+ Server
++ [Server](https://github.com/s-vvardenfell/QuinoaServer)
 + [Cache](https://github.com/s-vvardenfell/QuinoaCache)
 + [Telegram-bot](https://github.com/s-vvardenfell/QuinoaTgBot)
