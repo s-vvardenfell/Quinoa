@@ -6,3 +6,5 @@ The project consists of:<br>
 + [Cache](https://github.com/s-vvardenfell/QuinoaCache)
 + [Telegram-bot](https://github.com/s-vvardenfell/QuinoaTgBot)
 <br>
+
+![Alt-текст](https://github.com/s-vvardenfell/Quinoa/blob/main/src/Untitled%20Workspace.png)
