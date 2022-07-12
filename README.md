@@ -7,4 +7,4 @@ The project consists of:<br>
 + [Telegram-bot](https://github.com/s-vvardenfell/QuinoaTgBot)
 <br>
 
-![Alt-текст](https://github.com/s-vvardenfell/Quinoa/blob/main/src/Untitled%20Workspace.png)
+![Alt-текст](https://github.com/s-vvardenfell/Quinoa/blob/main/src/img.jpg)
