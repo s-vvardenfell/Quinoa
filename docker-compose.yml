@@ -1,0 +1,12 @@
+cache:
+    image: quinoa_cache
+bot:
+    image: telegram_bot
+server:
+    image: main_server
+parser:
+    image: parser
+db:
+    image: redis
+    ports:
+     - "6379:6379"
